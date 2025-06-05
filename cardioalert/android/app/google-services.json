@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "182822889632",
+    "project_id": "cardioalert-e8741",
+    "storage_bucket": "cardioalert-e8741.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182822889632:android:17a6cc4b411909e56941c5",
+        "android_client_info": {
+          "package_name": "com.example.cardioalert"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSIpjsx3pVBqGkcDrVFXHy_42IRBKOMd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
